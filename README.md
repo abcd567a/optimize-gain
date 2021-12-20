@@ -2,7 +2,7 @@
 
 **CONTRIBUTORS:** </br>
 In chronological order: </br>
-(1) Apr 26, 2016 - **BratJr :** Original Author, for use on dump1090-mutability / Python 2 </br>
+(1) Apr 26, 2016 - **BartJr :** Original Author, for use on dump1090-mutability / Python 2 </br>
 (2) Apr 28, 2016 - **Lignumaqua:** Enhancement for use on dump1090-mutability / Python 2 </br>
 (3) Aug 21, 2016 - **abcd567:** Adaptation for use on Piaware image / Python 2 </br>
 (4) Oct 08, 2016 - **abcd567:** Adaptation for use on dump1090-fa / Python 2 on Raspbian </br>
