@@ -74,5 +74,14 @@ SETTINGS RESTORED AT END OF TEST: </br>
 RECEIVER_GAIN=60 </br>
 ADAPTIVE_DYNAMIC_RANGE=yes </br>
 
+</br>
 
+![image](https://user-images.githubusercontent.com/28452511/185715005-436e1e7c-990e-4586-84fb-16f7ffa9a851.png)
+
+
+</br>
+
+![image](https://user-images.githubusercontent.com/28452511/185714965-56b08fdc-004f-4f20-9ba8-346254403b71.png)
+
+</br>
 
