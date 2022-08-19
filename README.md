@@ -7,7 +7,7 @@ In chronological order: </br>
 (3) Aug 21, 2016 - **abcd567:** Adaptation for use on Piaware image / Python 2 </br>
 (4) Oct 08, 2016 - **abcd567:** Adaptation for use on dump1090-fa / Python 2 on Raspbian </br>
 (5) Dec 15, 2016 - **wittrup58:** Variant for use on Piaware image / Python 2 </br>
-(6) Dec 19, 2021 - **abcd567:** Update/Upgrade for use on dump1090-fa ver 6.1 / **Python 3** / RaspiOS Bullseye </br>
+(6) Dec 19, 2021 - **abcd567:** Update/Upgrade for use on dump1090-fa ver 6.1 and later / **Python 3** / RaspiOS Bullseye </br>
 
 ## USAGE
 </br>
